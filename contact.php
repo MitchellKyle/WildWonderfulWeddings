@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$email_body .= "Message: " . $message . "\n";
 
 		$mail->setFrom($email, $name);
-		$mail->addAddress('mitchkylell@gmail.com', 'Kyle');
+		$mail->addAddress('kylej@wildandwonderfulweddings.com', 'Kyle');
 		$mail->isHTML(false);
 		$mail->Subject = 'Wild and Wonderful form from ' . $name;
 		$mail->Body = $email_body;
