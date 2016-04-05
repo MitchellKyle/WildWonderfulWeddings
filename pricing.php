@@ -17,6 +17,7 @@ include("includes/header.php");
 				<p>Flash Drive of All Images With Full Copyright</p>
 				<p>Custom Album</p>
 			</div>
+			<hr>
 			<div class="price-subgroup">
 				<h4 class="pacifico price-subheader">Package B - &#36;1,500</h4>
 				<p>A Meet and Greet Engagement Shoot</p>
@@ -34,6 +35,7 @@ include("includes/header.php");
 				<p>Full Edit and Enhancement of 50 Photos</p>
 				<p>Flash Drive of All Images With Full Copyright</p>
 			</div>
+			<hr>
 			<div class="price-subgroup">
 				<h4 class="pacifico price-subheader">Package B - &#36;250</h4>
 				<p>Two Hours of Coverage</p>
